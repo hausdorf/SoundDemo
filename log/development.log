@@ -1,0 +1,15 @@
+# Logfile created on Mon Jun 28 19:39:13 -0600 2010
+
+Processing ApplicationController#index (for 127.0.0.1 at 2010-06-28 19:41:05) [GET]
+
+NameError (uninitialized constant WelcomeController):
+  
+
+Rendered rescues/_trace (35.3ms)
+Rendered rescues/_request_and_response (1.2ms)
+Rendering rescues/layout (internal_server_error)
+
+
+Processing SoundController#index (for 127.0.0.1 at 2010-06-28 19:41:31) [GET]
+Rendering sound/index
+Completed in 39ms (View: 38, DB: 0) | 200 OK [http://0.0.0.0/]
