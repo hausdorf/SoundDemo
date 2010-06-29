@@ -13,3 +13,8 @@ Rendering rescues/layout (internal_server_error)
 Processing SoundController#index (for 127.0.0.1 at 2010-06-28 19:41:31) [GET]
 Rendering sound/index
 Completed in 39ms (View: 38, DB: 0) | 200 OK [http://0.0.0.0/]
+
+
+Processing SoundController#index (for 127.0.0.1 at 2010-06-28 19:50:07) [GET]
+Rendering sound/index
+Completed in 19ms (View: 16, DB: 0) | 200 OK [http://0.0.0.0/]
